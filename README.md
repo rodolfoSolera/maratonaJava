@@ -68,7 +68,7 @@ Este projeto serve como:
 
 # 📌 Observação
 
-Mesmo conteúdos simples estão sendo adicionados propositalmente.  
+Mesmo conteúdos simples estão a ser adicionados propositalmente.  
 A intenção é construir uma base extremamente sólida e ter um lugar confiável para consultar qualquer assunto relacionado a Java futuramente.
 
 ---
